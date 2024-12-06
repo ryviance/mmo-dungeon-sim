@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity metadata files
+*.cs.meta
+*.prefab.meta
+*.unity.meta
+
+# Visual Studio and Rider project files
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.bak
+*.swp
+*.tmp
+*.temp
+*.pidb
+*.svd
+
+# Crash reports
+*.stackdump
+
+# Package management
+Packages/*-lock.json
